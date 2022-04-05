@@ -14,7 +14,7 @@ while ($userReply -ne "Tank who"){
     
 clear-host
 
-write-output "You're welcome.  --AS"
+write-output "You're welcome."
 
 start-sleep -second 5
 
@@ -34,7 +34,7 @@ while ($userReply -ne "I O who"){
     
 clear-host
 
-write-output "Me. When are you paying me back?  --AS"
+write-output "Me. When are you paying me back?"
 
 start-sleep -second 5
 
@@ -54,7 +54,7 @@ while ($userReply -ne "Daisy who"){
     
 clear-host
 
-write-output "Daisy me rollin', they hatin'.  --AS"
+write-output "Daisy me rollin', they hatin'."
 
 start-sleep -second 5
 
@@ -74,7 +74,7 @@ while ($userReply -ne "Yah who"){
     
 clear-host
 
-write-output "No thanks, I prefer Google.  --AS"
+write-output "No thanks, I prefer Google."
 
 start-sleep -second 5
 
@@ -94,7 +94,7 @@ while ($userReply -ne "Owls say who"){
     
 clear-host
 
-write-output "Yes, yes they do.  --AS"
+write-output "Yes, yes they do."
 
 start-sleep -second 5
 
@@ -114,7 +114,7 @@ while ($userReply -ne "Yoda lady who"){
     
 clear-host
 
-write-output "I didn't know you could yodel.  --AS"
+write-output "I didn't know you could yodel."
 
 start-sleep -second 5
 
@@ -134,7 +134,7 @@ while ($userReply -ne "Europe who"){
     
 clear-host
 
-write-output "No, you're a poo.  --AS"
+write-output "No, you're a poo."
 
 start-sleep -second 5
 
@@ -142,7 +142,7 @@ clear-host
 
 write-output "The Knock Knock Joke"
 write-output ""
-write-output "Copyright 2014 - Joseph Preston"
+write-output "Copyright 2022 - Angel Santiago"
 
 start-sleep -second 3
 
