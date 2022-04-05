@@ -1,16 +1,6 @@
-## PS W3 if & Switch Lab
-## Create two scripts per the following:
-## 
-## 1. Script 1.  Ask the user for a PowerShell cmdlet (choose four different cmdlets; if a user does not supply a valid cmdlet then write out "Please choose one of the following cmdlets:...").  Use an if then elseif structure to run the corresponding cmdlet that the user entered.  Test it.  Save it as ifscript.ps1  (4 points)
-## 
-## 2. Script 2.  Modify Script 1 to use the switch structure.  (4 points)
-## 
-## 3. Include comments the following comments: name, date, describe your script, etc.  (2 points)
-## 
-## Submit your scripts via this link.
-
-#This script is to run cmdlet commands that I choose and to show case the use of the if statement
-
+## This script is to run cmdlet commands that I chose and to show case the use of the if statement.
+## Code Date: 04/04/2022
+## Author: Angel Santiago
 ## Get-Process
 ## Get-TimeZone
 ## Get-ExecutionPolicy
