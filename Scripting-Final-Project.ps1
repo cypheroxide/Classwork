@@ -17,7 +17,7 @@
 #				much more do you know? Find out by answering the
 #				following questions.
 # 
-# **********************************************************************
+# *********************************************************************
 
 # Clear the Windows command console screen
 Clear-Host
